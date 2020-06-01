@@ -1,0 +1,4 @@
+# easyjwt.alg = "RS256"
+# easyjwt.private_key = "openssl/private.pem"
+# easyjwt.private_key_password = ""
+# easyjwt.public_key = "openssl/public.pem"
